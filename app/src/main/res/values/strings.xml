@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentsExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Enter Name</string>
+    <string name="data_first">Data from first</string>
+    <string name="send_first">Send to First</string>
+    <string name="finish">Finish</string>
+</resources>
